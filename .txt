@@ -1,0 +1,4 @@
+O jogo consiste em retirar aleatóreamente uma bolinha que pode ser da cor vermelha,
+verde ou azul. O vencedor é o que primeiro colecionar 3 bolinhas da mesma cor. Para cada jogador, 
+há exatamente 30 bolinhas, sendo 10 de cada cor no início do jogo. Quando for a vez do próximo, 
+deverá haver novamente 30 bolinhas para serem retiradas.
